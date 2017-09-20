@@ -1,4 +1,4 @@
-FROM registry-write.opensource.zalan.do/pathfinder/alpine-node:8.3.0
+FROM registry.opensource.zalan.do/pathfinder/alpine-node:8.3.0
 MAINTAINER Team Pathfinder <team-pathfinder@zalando.de>
 
 ADD . /opt/tailor
